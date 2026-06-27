@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/reza-davarpanah-84951b374/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/reza-davarpanah-84951b374/))
 [![Resume](https://img.shields.io/badge/Resume%20(Parscoders)-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://parscoders.com/resume/506155/reza-davarpanah#portfolioTab)
 [![Email](https://img.shields.io/badge/Email-www.rezadavarpanah86@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.rezadavarpanah86@gmail.com)
 
@@ -72,5 +72,5 @@
 ---
 
 <div align="center">
-  <sub>Let's build something fast. Reach out via <a href="[https://www.linkedin.com/in/reza-davarpanah-84951b374/]">LinkedIn</a> or drop an email to <a href="mailto:www.rezadavarpanah86@gmail.com">reza.davarpanah.ai@gmail.com</a>.</sub>
+  <sub>Let's build something fast. Reach out via <a href="(https://www.linkedin.com/in/reza-davarpanah-84951b374/)">LinkedIn</a> or drop an email to <a href="mailto:www.rezadavarpanah86@gmail.com">reza.davarpanah.ai@gmail.com</a>.</sub>
 </div>
