@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Reza Davarpanah — High-Performance AI Engineer Banner" width="100%" />
+  <img src="./Banner.png" alt="Reza Davarpanah — High-Performance AI Engineer Banner" width="100%" />
 </p>
 
 <div align="center">
@@ -12,9 +12,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/reza-davarpanah-84951b374/))
-[![Resume](https://img.shields.io/badge/Resume%20(Parscoders)-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://parscoders.com/resume/506155/reza-davarpanah#portfolioTab)
-[![Email](https://img.shields.io/badge/Email-www.rezadavarpanah86@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.rezadavarpanah86@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-davarpanah-84951b374)
+[![Resume](https://img.shields.io/badge/Resume%20(Parscoders)-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://parscoders.com/resume/506155/reza-davarpanah#coderTab)
+[![Email](https://img.shields.io/badge/Email-www.rezadavarpanah86@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezadavarpanah86@gmail.com)
 
 </div>
 
@@ -48,6 +48,7 @@
 * **Stack:** PyTorch Geometric (PyG), GCN, GAT, Elliptic Bitcoin Dataset.
 * **The Problem:** Processing massive, structurally sparse, and heterophilous transaction networks in real-time is highly latency-sensitive and bottlenecked by traditional data loads.
 * **The Solution:** Built a graph-based pipeline optimizing the transaction feature extraction. Benchmarked advanced graph neural network (GNN) architectures against classical ML baselines to improve accuracy and speed under highly skewed and sparse transaction patterns.
+* **Source:** [GitHub Repository](https://github.com/Reza-Davarpanah)
 
 ### 2️⃣ Neuromorphic EEG Seizure Detection
 > **Focus: Biological Spiking Efficiency & Micro-second Latency**
@@ -55,6 +56,7 @@
 * **Stack:** BindsNET, Spiking Neural Networks (SNN), STDP Learning, SVM.
 * **The Problem:** Real-time EEG classification on edge devices demands ultra-low power consumption and high temporal fidelity.
 * **The Solution:** Implemented a neuromorphic seizure detection workflow inspired by biologically realistic neural learning. Modeled continuous, temporal EEG dynamics utilizing unsupervised Spike-Timing-Dependent Plasticity (STDP) for feature representation, followed by a robust SVM classification layer.
+* **Source:** [GitHub Repository](https://github.com/Reza-Davarpanah)
 
 ### 3️⃣ Hybrid ML-Metaheuristic Optimizer
 > **Focus: Search Convergence Speedup & Complex Graph Optimization**
@@ -62,6 +64,7 @@
 * **Stack:** Genetic Algorithms (GA), Particle Swarm Optimization (PSO), ML-Guided Policy.
 * **The Problem:** NP-hard combinatorial optimization on large networks suffers from slow convergence and massive compute resource waste.
 * **The Solution:** Engineered a hybrid optimization framework that couples classical evolutionary search (GA/PSO) with machine learning decision policies. The ML layer adaptively guides the metaheuristic exploration, drastically reducing iterations needed to converge on optimal network routing/topology solutions.
+* **Source:** [GitHub Repository](https://github.com/Reza-Davarpanah)
 
 ---
 
@@ -72,5 +75,5 @@
 ---
 
 <div align="center">
-  <sub>Let's build something fast. Reach out via <a href="(https://www.linkedin.com/in/reza-davarpanah-84951b374/)">LinkedIn</a> or drop an email to <a href="mailto:www.rezadavarpanah86@gmail.com">reza.davarpanah.ai@gmail.com</a>.</sub>
+  <sub>Let's build something fast. Reach out via <a href="https://www.linkedin.com/in/reza-davarpanah-84951b374">LinkedIn</a> or drop an email to <a href="mailto:www.rezadavarpanah86@gmail.com">rezadavarpanah86@gmail.com</a>.</sub>
 </div>
