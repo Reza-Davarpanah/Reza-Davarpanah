@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner.png" alt="Reza Davarpanah — High-Performance AI Engineer Banner" width="100%" />
+  <img src="./Banner.jpg" alt="Reza Davarpanah — High-Performance AI Engineer Banner" width="100%" />
 </p>
 
 <div align="center">
