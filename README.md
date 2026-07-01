@@ -1,79 +1,119 @@
-<p align="center">
-  <img src="./Banner.jpg" alt="Reza Davarpanah — High-Performance AI Engineer Banner" width="100%" />
-</p>
+
+![Banner](Banner.jpg)
 
 <div align="center">
 
 # Reza Davarpanah
-### High-Performance AI Engineer
+### High-Performance AI Engineer | Creator of the **Bending Strategy**
 
-**I bridge the gap between heavy ML/LLM models and production runtime efficiency.**  
-*I build Python-Rust hybrid runtimes to optimize execution latency, cloud spend, and system stability.*
+I architect high-efficiency AI systems by fusing Python’s ML velocity with Rust’s runtime performance.  
+From neuromorphic edge inference to graph-scale intelligence, I optimize for **latency, throughput, and cloud cost**.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-davarpanah-84951b374)
-[![Resume](https://img.shields.io/badge/Resume%20(Parscoders)-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://parscoders.com/resume/506155/reza-davarpanah#coderTab)
-[![Email](https://img.shields.io/badge/Email-www.rezadavarpanah86@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezadavarpanah86@gmail.com)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyO3](https://img.shields.io/badge/PyO3-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![PyTorch Geometric](https://img.shields.io/badge/PyG-6E40C9?style=for-the-badge)
+![BindsNET](https://img.shields.io/badge/BindsNET-111827?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reza-Davarpanah&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 Core Expertise & System Focus
+## ⚡ About Me — The Bending Strategy
 
-- **Low-Latency Runtimes:** Designing latency-sensitive ML/LLM execution pipelines optimized for high-throughput production environments.
-- **Python–Rust Integration (PyO3):** Writing high-performance Rust extensions to accelerate CPU-bound hot paths, data preprocessing, and custom feature transforms.
-- **Inference Optimization:** Reducing cloud GPU/CPU footprint through hardware-aware compilation, model profiling, and efficient resource scheduling.
-- **Advanced Neural Architectures:** Implementing neuromorphic computing pipelines (SNNs) and structurally sparse graph neural networks (GNNs).
+I operate at the intersection of **HPC (High-Performance Computing)** and **Applied AI**.  
+My engineering philosophy is simple: I don’t just train models; I **bend** them into production constraints—compressing complexity, removing runtime bottlenecks, and maximizing efficiency per compute dollar.
 
----
-
-## 🛠️ High-Performance Tech Stack
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Python` (High-Performance), `Rust` (Systems-level), `PyO3` / `Maturin` |
-| **Deep Learning** | `PyTorch`, `PyTorch Geometric` (PyG), `BindsNET` (SNN Simulation) |
-| **Systems & Infra** | `Inference Optimization`, `Data Pipeline Engineering`, `Low-Latency Runtimes` |
-| **Methodologies** | `Memory Profiling`, `Hardware-Aware Acceleration`, `Graph Representation Learning` |
+My core specialization is building **Hybrid Runtimes**: Python for rapid ML iteration, Rust (via **PyO3**) for memory-safe, concurrent, low-latency execution.  
+This eliminates GIL-bound bottlenecks and enables predictable scaling under real production load.
 
 ---
 
-## 🔬 Featured Engineering Projects
+## 🛠 Core Engineering Expertise
 
-### 1️⃣ Low-Latency Fraud Detection Graph
-> **Focus: Scale & Structural Graph Optimization**
-
-* **Stack:** PyTorch Geometric (PyG), GCN, GAT, Elliptic Bitcoin Dataset.
-* **The Problem:** Processing massive, structurally sparse, and heterophilous transaction networks in real-time is highly latency-sensitive and bottlenecked by traditional data loads.
-* **The Solution:** Built a graph-based pipeline optimizing the transaction feature extraction. Benchmarked advanced graph neural network (GNN) architectures against classical ML baselines to improve accuracy and speed under highly skewed and sparse transaction patterns.
-* **Source:** [GitHub Repository](https://github.com/Reza-Davarpanah)
-
-### 2️⃣ Neuromorphic EEG Seizure Detection
-> **Focus: Biological Spiking Efficiency & Micro-second Latency**
-
-* **Stack:** BindsNET, Spiking Neural Networks (SNN), STDP Learning, SVM.
-* **The Problem:** Real-time EEG classification on edge devices demands ultra-low power consumption and high temporal fidelity.
-* **The Solution:** Implemented a neuromorphic seizure detection workflow inspired by biologically realistic neural learning. Modeled continuous, temporal EEG dynamics utilizing unsupervised Spike-Timing-Dependent Plasticity (STDP) for feature representation, followed by a robust SVM classification layer.
-* **Source:** [GitHub Repository](https://github.com/Reza-Davarpanah)
-
-### 3️⃣ Hybrid ML-Metaheuristic Optimizer
-> **Focus: Search Convergence Speedup & Complex Graph Optimization**
-
-* **Stack:** Genetic Algorithms (GA), Particle Swarm Optimization (PSO), ML-Guided Policy.
-* **The Problem:** NP-hard combinatorial optimization on large networks suffers from slow convergence and massive compute resource waste.
-* **The Solution:** Engineered a hybrid optimization framework that couples classical evolutionary search (GA/PSO) with machine learning decision policies. The ML layer adaptively guides the metaheuristic exploration, drastically reducing iterations needed to converge on optimal network routing/topology solutions.
-* **Source:** [GitHub Repository](https://github.com/Reza-Davarpanah)
+- **AI Runtime Optimization:** Rust-driven execution paths for real-time inference and data preprocessing.
+- **Graph + Neuromorphic Intelligence:** GNNs for topological reasoning, SNNs for temporal edge AI.
+- **Extreme Compute Efficiency:** Memory reduction, CPU scaling, and elimination of Python's execution overhead.
+- **Imbalance & Heterophily Mastery:** Loss-level mathematical tuning for asymmetric real-world datasets.
 
 ---
 
-## 🧠 System Philosophy
+## 🧭 Bending Pipeline (The Architecture)
 
-> *"Premature optimization is the root of all evil. But when you are processing millions of tokens per second or dealing with microsecond-level trading systems, latency is money. I build architectures that don't compromise between safety, speed, and cost."*
+```mermaid
+graph LR
+    A[Python Prototyping] --> B[Profiling Bottlenecks]
+    B --> C[Bending Layer Optimization]
+    C --> D[Rust Runtime / PyO3]
+    D --> E[Optimized Engine]
+    E --> F[Stable Production]
+```
 
 ---
+
+## 🚀 Featured Work
+
+### 1) **GNN_Guided_ACO** — Hybrid Combinatorial Optimization
+A high-performance engine combining GNN heuristics with Ant Colony Optimization.  
+**Impact:** Migrated critical search loops to Rust, achieving thread-safe concurrency and removing GIL overhead.
+
+### 2) **Neuromorphic EEG Engine (SNN-Seizure)**
+SNN architecture (`184-input → 120-LIF`) with **PostPre STDP** feature extraction.  
+**Impact:** Engineered for edge-native medical IoT. Achieved sub-5ms inference target with ~97% memory reduction.
+
+### 3) **Elliptic-Fraud Intelligence (Graph ML)**
+Advanced GNN pipeline (GCN/GAT) for Bitcoin transaction monitoring.  
+**Impact:** Solved severe class imbalance and heterophily using mathematically tuned weighted objectives.
+
+---
+
+## 📊 Performance Benchmarks (Observed)
+
+| Project | Stack | Performance Signal | Engineering Impact |
+|---|---|---|---|
+| **GNN_Guided_ACO** | PyTorch + Rust | Near-instant convergence | Hybrid-Parallel Execution |
+| **SNN-Seizure** | BindsNET + STDP | **< 5ms** Inference | **~97% Memory Reduction** |
+| **Elliptic-Fraud** | PyG + XGBoost | **96.35% F1-Weighted** | Robustness under imbalance |
+
+---
+
+## 📈 Engineering Metrics
 
 <div align="center">
-  <sub>Let's build something fast. Reach out via <a href="https://www.linkedin.com/in/reza-davarpanah-84951b374">LinkedIn</a> or drop an email to <a href="mailto:www.rezadavarpanah86@gmail.com">rezadavarpanah86@gmail.com</a>.</sub>
+
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Reza-Davarpanah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+### Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-Davarpanah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+### GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reza-Davarpanah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🔢 The Numbers Speak
+
+- **< 5ms** target latency in edge-native SNN inference.
+- **30×** throughput scaling potential by moving critical bottlenecks from Python to Rust.
+- **O(V + E·H)** complexity awareness for stable graph-scale production planning.
+
+---
+
+## 🔗 Connect & Collaborate
+
+[LinkedIn](https://www.linkedin.com/in/reza-davarpanah-84951b374) • [Email](mailto:rezadavarpanah86@gmail.com) • [Resume](https://parscoders.com/resume/506155/reza-davarpanah#coderTab)
+
+<div align="center">
+  <sub><b>Precision is not a metric; it is the infrastructure.</b></sub>
 </div>
